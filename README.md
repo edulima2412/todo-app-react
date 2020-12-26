@@ -1,4 +1,5 @@
 # Aplicação TODO
+Aplicação para controle de atividades, feita em react.
 
 ## Middlewares
 * Promise
