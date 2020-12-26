@@ -1,5 +1,5 @@
 # Aplicação TODO
-Aplicação para controle de atividades, feita em react.\
+Aplicação para controle de atividades, feito com <strong>REACT</strong>.
 
 [COD3R](https://www.cod3r.com.br/) - `Leonardo Moura Leitao`
 
