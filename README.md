@@ -1,5 +1,7 @@
 # Aplicação TODO
-Aplicação para controle de atividades, feita em react.
+Aplicação para controle de atividades, feita em react.\
+
+[COD3R](https://www.cod3r.com.br/) - `Leonardo Moura Leitao`
 
 ## Middlewares
 * Promise
