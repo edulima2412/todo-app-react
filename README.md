@@ -1,4 +1,24 @@
-# Aplicação TODO utilizando conceitos de Redux
+# Aplicação TODO
+
+## Middlewares
+* Promise
+* Multi
+* Thunk
+
+## Backend
+* Node.js
+* MongoDB
+* Express
+* PM2
+* Node-restful
+
+## Frontend
+* Redux
+* React
+* Webpack
+* Axios
+* Babel
+* Bootstrap
 
 ## Preview
 
